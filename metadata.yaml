@@ -1,0 +1,39 @@
+_repo: Elements-of-Chemistry-In-a-New-Systematic-Order-Containing-all-the-Modern-Discoveries_30775
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kerr, Robert
+    birthdate: 1755
+    deathdate: 1813
+    gutenberg_agent_id: '3594'
+    url: http://www.gutenberg.org/2009/agents/3594
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Kerr_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lavoisier, Antoine
+    birthdate: 1743
+    deathdate: 1794
+    gutenberg_agent_id: '34823'
+    url: http://www.gutenberg.org/2009/agents/34823
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Lavoisier
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2009-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30775'
+  lccn: '17024342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemistry -- Early works to 1800'
+title: 'Elements of Chemistry,
+
+  In a New Systematic Order, Containing all the Modern Discoveries'
+url: http://www.gutenberg.org/ebooks/30775
