@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34823
     wikipedia: http://en.wikipedia.org/wiki/Antoine_Lavoisier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30775#Elements-of-Chemistry-In-a-New-Systematic-Order-Containing-all-the-Modern-Discoveries
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2009-12-28'
 gutenberg_type: Text
